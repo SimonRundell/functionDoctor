@@ -2,7 +2,7 @@
  * CMFloatAd
  *
  * Floating branding banner – hover to expand full contact details.
- * Modified for Exeter College by Simon Rundell, Dept of ITDD.
+ * Modified for Exeter College by Simon Rundell, Dept of Cybersecurity and Digital Technologies.
  *
  * SELF CONTAINED COMPONENT - DO NOT SPLIT UP.
  * This file is dropped as-is into other projects, so it must not depend on
